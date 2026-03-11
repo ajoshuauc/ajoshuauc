@@ -75,7 +75,3 @@ Connect with me!
 
 * LinkedIn: https://www.linkedin.com/in/anthony-cagampang/
 * Portfolio: https://anthony-cagampang-portfolio.vercel.app/
-
----
-
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
